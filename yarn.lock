@@ -162,10 +162,10 @@
   resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-4.0.0.tgz#2ff674e9611b45b528896d820d3d7a812de2f0e4"
   integrity sha512-FyD2meJpDPjyNQejSjvnhpgI/azsQkA4lGbuu5BQZfjvJ9cbRZXzeWL2HceCekW4lixO9JPesIIQkSoLjeJHNQ==
 
-"@snyk/protect@^1.1087.0":
-  version "1.1087.0"
-  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1087.0.tgz#2c78812c9ae168b6dbd69c6a4602ba0dee06a62a"
-  integrity sha512-BQeiQ/RVaT+xtMTPJoliAPqvLDFI62jUtdLhVO3zQa53T+dZLAlMzDoI9zjW5G2djlJsWUYnfHGNdkmMEMHdYQ==
+"@snyk/protect@latest":
+  version "1.1110.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1110.0.tgz#1981b39a0229eff9e002996ab98fae17e5537d50"
+  integrity sha512-fey2HEdhCm6qD23f2sZdFu9B4ckgCgpLIDgUGFbRZhhYaF8sUhQSZe5SAegNU7npDHO52jz+J7CJjGbsk5f1ow==
 
 "@szmarczak/http-timer@^4.0.5":
   version "4.0.5"
@@ -2957,10 +2957,10 @@ linkify-it@^4.0.1:
   dependencies:
     uc.micro "^1.0.1"
 
-lint-staged@13.1.0:
-  version "13.1.0"
-  resolved "https://registry.yarnpkg.com/lint-staged/-/lint-staged-13.1.0.tgz#d4c61aec939e789e489fa51987ec5207b50fd37e"
-  integrity sha512-pn/sR8IrcF/T0vpWLilih8jmVouMlxqXxKuAojmbiGX5n/gDnz+abdPptlj0vYnbfE0SQNl3CY/HwtM0+yfOVQ==
+lint-staged@13.1.1:
+  version "13.1.1"
+  resolved "https://registry.yarnpkg.com/lint-staged/-/lint-staged-13.1.1.tgz#db61636850660e291a6885da65d8e79850bd8307"
+  integrity sha512-LLJLO0Kdbcv2a+CvSF4p1M7jBZOajKSMpBUvyR8+bXccsqPER0/NxTFQSpNHjqwV9kM3tkHczYerTB5wI+bksQ==
   dependencies:
     cli-truncate "^3.1.0"
     colorette "^2.0.19"
